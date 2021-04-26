@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @LUN000
+- 👋 Hi, I’m LUN
 - 👀 I’m interested in PYTHON & Computer Vision & Color Engineering
 - 🌱 I’m currently learning PYTHON & Computer Vision & Color Engineering
 - 💞️ I’m looking to collaborate on everything
